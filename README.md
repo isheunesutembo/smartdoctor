@@ -35,7 +35,7 @@ A Flutter mobile application that uses AI-powered image analysis to detect pneum
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-dr-mobile.git
+git clone https://github.com/isheunesutembo/smart-dr-mobile.git
 cd smart-dr-mobile
 ```
 
@@ -293,9 +293,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/smart-dr-mobile/issues)
+- **Issues**: [GitHub Issues](https://github.com/isheunesutembo/smart-dr-mobile/issues)
 - **Email**: support@smartdr.com
-- **Documentation**: Check the [Wiki](https://github.com/yourusername/smart-dr-mobile/wiki)
+
 
 ## 🔄 Version History
 
