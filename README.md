@@ -13,6 +13,8 @@ A Flutter mobile application that uses AI-powered image analysis to detect pneum
 - **❌ Error Handling**: Comprehensive error management and user feedback
 - **📱 Cross-Platform**: Works on both Android and iOS devices
 
+  <img src="Screenshot_1750954148.png"/>
+
 ## 🛠️ Tech Stack
 
 - **Framework**: Flutter
